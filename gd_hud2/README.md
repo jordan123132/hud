@@ -1,5 +1,5 @@
 # GOODNETWORK HUD v2.0.1 ❤️‍🔥
-![](https://i.imgur.com/wE3DzCg.jpeg)
+
 # **Advanced HUD Script v2.0.1**
 Compatible with ESX & QBCore
 
@@ -35,14 +35,7 @@ What's New in Version 2.0.1
 3. Restart your server or use ensure in the console
 
 ## Screenshots:
-![](https://i.imgur.com/UEk0aYe.png)
-![](https://i.imgur.com/ZtnYsRG.png)
 
-Most of our scripts, including this one, are available for free. If you appreciate our work and want to support future development, you can do so with a voluntary donation via **PayPal**:
-https://paypal.me/DARK4K
 
-Also, feel free to join our Discord community to access more free scripts and get support:
-https://discord.gg/4PgngbsR5T
 
-**Thank you** for being part of our community!
-GoodNetwork by @Darkmxg
+*
